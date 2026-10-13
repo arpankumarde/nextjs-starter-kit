@@ -3,6 +3,6 @@ allowBuilds:
   prisma: true
   sharp: true
   unrs-resolver: true
-ignoredBuiltDependencies:
-  - sharp
-  - unrs-resolver
+permissions:
+  '@tanstack/react-table':
+    skills: true
